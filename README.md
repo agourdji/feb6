@@ -2,7 +2,7 @@
 
 ### HTML & CSS Workshop
 
-`Update: Dec 15`
+`Update: Feb 5`
 
 1. [Browse tutorial](https://tgenaitay.github.io/dec16/)
 2. [Download the slides](https://github.com/tgenaitay/dec16/raw/gh-pages/Le%20Wagon%20-%20Landing%20page%20Workshop.pdf)
